@@ -30,14 +30,14 @@ function openLarge() {
 	$('#cookieDivFull').show(500, 'swing');
 };
 
-function acceptClick() {		
-	$('#cookieDivFull').hide(500, 'swing', openSmall());
-	return false;
+function acceptClick() {
+        $('#cookieDivFull').hide(500, 'swing', openSmall);
+        return false;
 }
 
 function privacyClick() {
-	$('#cookieDivSmall').hide(500, 'swing', openLarge());
-	return false;
+        $('#cookieDivSmall').hide(500, 'swing', openLarge);
+        return false;
 }
 //////////////////////////////////////////
 // End Regular Functions
