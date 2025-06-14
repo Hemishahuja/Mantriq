@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.northerncam.co.uk	TRUE	/	FALSE	1999999999	ci_session	76c4cc70e202f4cb1956a8a01965a47f4d7dac9b
-
